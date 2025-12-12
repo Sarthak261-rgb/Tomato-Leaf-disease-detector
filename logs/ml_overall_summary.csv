@@ -1,0 +1,5 @@
+Model,Accuracy (%),Misclassification (%)
+SVM (RBF),93.75,6.25
+RandomForest,81.32,18.68
+KNN (k=5),85.57,14.43
+DecisionTree,56.59,43.41

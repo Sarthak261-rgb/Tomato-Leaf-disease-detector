@@ -1,0 +1,6 @@
+Model,Accuracy (%),Misclassification (%)
+SVM (RBF),91.24,8.76
+RandomForest,93.88,6.12
+KNN (k=5),88.42,11.58
+DecisionTree,85.60,14.40
+CNN MobileNetV2,97.85,2.15
